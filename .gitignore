@@ -1,0 +1,8 @@
+# Notebooks cache
+.ipynb_checkpoints/
+
+# Data (you can remove this if files < 50MB)
+data/*.csv
+
+# macOS files
+.DS_Store
