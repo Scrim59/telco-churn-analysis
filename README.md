@@ -13,6 +13,8 @@ This project uses the **Telco Customer Churn dataset** (Kaggle) and includes:
 
 ## 📂 Project Structure
 
+```text
+
 telco-churn-analysis/
 │
 ├── data/
@@ -28,6 +30,9 @@ telco-churn-analysis/
 │
 ├── README.md
 └── .gitignore
+
+
+```
 ---
 
 ## 🧹 1. Data Preparation
