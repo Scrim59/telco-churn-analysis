@@ -26,7 +26,7 @@ telco-churn-analysis/
 │   └── 02_eda.ipynb
 │
 ├── dashboard/
-│   └── (Tableau dashboard will be placed here)
+│   └── Dashboard.png
 │
 ├── README.md
 └── .gitignore
@@ -67,7 +67,7 @@ Key topics:
 
 ---
 
-## 📊 3. Tableau Dashboard (Coming Soon)
+## 📊 3. Tableau Dashboard
 
 Planned dashboard views:
 - Overview KPIs  
@@ -76,7 +76,13 @@ Planned dashboard views:
 - Monthly charges vs churn  
 - Service usage & risk indicators  
 
-Will be hosted via **Tableau Public** and linked here.
+You can view the interactive churn dashboard here:
+
+👉 **https://public.tableau.com/app/profile/michal.lipa/viz/Book2_17640721855610/Dashboard?publish=yes**
+
+## Dashboard Preview
+
+![Dashboard](dashboard/Dashboard.png)
 
 ---
 
